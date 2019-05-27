@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\EY.AFVC.Data\EY.AFVC.Data.csproj" />
+    <ProjectReference Include="..\EY.AFVC.Models\EY.AFVC.Models.csproj" />
+  </ItemGroup>
+
+</Project>

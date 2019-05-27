@@ -1,0 +1,9 @@
+C:\Projects\AssistedFrontLoad\Services\EY.AFVC.Models\bin\Debug\netcoreapp2.0\EY.AFVC.Models.deps.json
+C:\Projects\AssistedFrontLoad\Services\EY.AFVC.Models\bin\Debug\netcoreapp2.0\EY.AFVC.Models.dll
+C:\Projects\AssistedFrontLoad\Services\EY.AFVC.Models\bin\Debug\netcoreapp2.0\EY.AFVC.Models.pdb
+C:\Projects\AssistedFrontLoad\Services\EY.AFVC.Models\obj\Debug\netcoreapp2.0\EY.AFVC.Models.csprojResolveAssemblyReference.cache
+C:\Projects\AssistedFrontLoad\Services\EY.AFVC.Models\obj\Debug\netcoreapp2.0\EY.AFVC.Models.csproj.CoreCompileInputs.cache
+C:\Projects\AssistedFrontLoad\Services\EY.AFVC.Models\obj\Debug\netcoreapp2.0\EY.AFVC.Models.AssemblyInfoInputs.cache
+C:\Projects\AssistedFrontLoad\Services\EY.AFVC.Models\obj\Debug\netcoreapp2.0\EY.AFVC.Models.AssemblyInfo.cs
+C:\Projects\AssistedFrontLoad\Services\EY.AFVC.Models\obj\Debug\netcoreapp2.0\EY.AFVC.Models.dll
+C:\Projects\AssistedFrontLoad\Services\EY.AFVC.Models\obj\Debug\netcoreapp2.0\EY.AFVC.Models.pdb

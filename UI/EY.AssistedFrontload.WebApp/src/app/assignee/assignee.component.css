@@ -1,0 +1,47 @@
+.btnSave{
+    width:70%; 
+    background-color:#fee700;
+    font-weight:bold; 
+    border:1px solid #fee700;
+    color:black
+}
+
+.btnComment{
+   width:70%; 
+   background-color:#eeeeee; 
+   color:black;
+   border:1px solid #eeeeee;
+
+}
+.text-align-center{
+    text-align:center
+}
+.table-bordered>tbody>tr>td,  .table-bordered>tfoot>tr>td, .table-bordered>tfoot>tr>th, .table-bordered>thead>tr>td, .table-bordered>thead>tr>th{
+    border:1px solid black;
+    border-bottom: 0;
+}
+.table>caption+thead>tr:first-child>td, .table>caption+thead>tr:first-child>th, .table>colgroup+thead>tr:first-child>td, .table>colgroup+thead>tr:first-child>th, .table>thead:first-child>tr:first-child>td, .table>thead:first-child>tr:first-child>th{
+    border-top:1px solid black;
+}
+
+
+
+
+thead, tfoot {
+	background:lightgray;
+	display:table;
+	width:96%;
+	
+}
+tbody {
+	height:450px;
+	overflow:auto;
+	overflow-x:hidden;
+	display:block;
+	width:100%;
+}
+tbody tr {
+	display:table;
+	width:100%;
+	table-layout:fixed;
+}

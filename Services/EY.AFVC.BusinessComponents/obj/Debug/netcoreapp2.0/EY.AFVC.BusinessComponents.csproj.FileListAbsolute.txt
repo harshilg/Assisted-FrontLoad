@@ -1,0 +1,15 @@
+C:\Projects\AssistedFrontLoad\Services\EY.AFVC.BusinessComponents\bin\Debug\netcoreapp2.0\app.config
+C:\Projects\AssistedFrontLoad\Services\EY.AFVC.BusinessComponents\bin\Debug\netcoreapp2.0\EY.AFVC.BusinessComponents.deps.json
+C:\Projects\AssistedFrontLoad\Services\EY.AFVC.BusinessComponents\bin\Debug\netcoreapp2.0\EY.AFVC.BusinessComponents.dll
+C:\Projects\AssistedFrontLoad\Services\EY.AFVC.BusinessComponents\bin\Debug\netcoreapp2.0\EY.AFVC.BusinessComponents.pdb
+C:\Projects\AssistedFrontLoad\Services\EY.AFVC.BusinessComponents\bin\Debug\netcoreapp2.0\EY.AFVC.Data.dll
+C:\Projects\AssistedFrontLoad\Services\EY.AFVC.BusinessComponents\bin\Debug\netcoreapp2.0\EY.AFVC.Models.dll
+C:\Projects\AssistedFrontLoad\Services\EY.AFVC.BusinessComponents\bin\Debug\netcoreapp2.0\EY.AFVC.Data.pdb
+C:\Projects\AssistedFrontLoad\Services\EY.AFVC.BusinessComponents\bin\Debug\netcoreapp2.0\EY.AFVC.Data.dll.config
+C:\Projects\AssistedFrontLoad\Services\EY.AFVC.BusinessComponents\bin\Debug\netcoreapp2.0\EY.AFVC.Models.pdb
+C:\Projects\AssistedFrontLoad\Services\EY.AFVC.BusinessComponents\obj\Debug\netcoreapp2.0\EY.AFVC.BusinessComponents.csprojResolveAssemblyReference.cache
+C:\Projects\AssistedFrontLoad\Services\EY.AFVC.BusinessComponents\obj\Debug\netcoreapp2.0\EY.AFVC.BusinessComponents.csproj.CoreCompileInputs.cache
+C:\Projects\AssistedFrontLoad\Services\EY.AFVC.BusinessComponents\obj\Debug\netcoreapp2.0\EY.AFVC.BusinessComponents.AssemblyInfoInputs.cache
+C:\Projects\AssistedFrontLoad\Services\EY.AFVC.BusinessComponents\obj\Debug\netcoreapp2.0\EY.AFVC.BusinessComponents.AssemblyInfo.cs
+C:\Projects\AssistedFrontLoad\Services\EY.AFVC.BusinessComponents\obj\Debug\netcoreapp2.0\EY.AFVC.BusinessComponents.dll
+C:\Projects\AssistedFrontLoad\Services\EY.AFVC.BusinessComponents\obj\Debug\netcoreapp2.0\EY.AFVC.BusinessComponents.pdb

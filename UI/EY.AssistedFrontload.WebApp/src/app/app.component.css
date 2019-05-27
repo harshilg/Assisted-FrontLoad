@@ -1,0 +1,56 @@
+.header{
+  background-color:#333333; 
+  margin:5px; 
+}
+.text-color{
+    color: white;
+    
+}
+.logo-section{
+background-color:#000000;
+    border:#000000;
+    height: 82px;
+    padding-left:4px;
+}
+.text-center-align{
+    text-align: center;
+    height:80px;
+}
+.active a{
+   border-bottom: 2px solid yellow !important;
+}
+.question-mark{
+    margin-top: 10px;
+    margin-right: 20px;
+    font-weight: bold;
+    font-size: 30px;
+    color: white;
+}
+.navbar-default{
+  color:#c0c0c0;
+    background-color:#333333;
+    border-color:#333333;  
+}
+.navbar-default .navbar-nav>.active>a, .navbar-default .navbar-nav>.active>a:focus, .navbar-default .navbar-nav>.active>a:hover{
+    color:#c0c0c0;
+    background-color:#333333;
+    border-color:#333333;
+}
+.navbar-default .navbar-nav>li>a:focus, .navbar-default .navbar-nav>li>a:hover{
+    color:#c0c0c0;
+}
+
+.tab-style{
+    color: #c0c0c0;
+    font-size:16px;
+    font-family: Noto Sans Regular;
+    padding-top:30px;
+    height: 80px;
+}
+
+.ui-datatable-thead th.ui-state-default{
+    background: green !important;
+}
+
+
+

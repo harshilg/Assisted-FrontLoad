@@ -1,0 +1,43 @@
+<!--The content below is only a placeholder and can be replaced.-->
+
+  
+ <div class="container-fluid header">
+   <div class="row " style="height:80px;">
+     <div class="col-xs-2 text-color logo-section">
+       <div style="float:left"><img src="./assets/EYLogo.png" style="height:80px;width:110px;background-color:black;"></div>
+       <div style="padding-left:130px; padding-top:55px; font-weight:bold; font-size:18px;" > Assisted Frontload</div>
+     </div>
+     <div class="col-xs-4 col-md-4 text-color text-center-align">
+        <nav class="navbar navbar-default navbar-left " style="margin-bottom:0px;border-radius:0px;">
+        <div class="container-fluid" style="padding:0px;">
+          <ul class="nav navbar-nav" >
+             <li style="width:100px; text-align:center" routerLinkActive="active" [routerLinkActiveOptions]="{exact:true}">
+               <a routerLink="/" class="tab-style"><i class="fa fa-home" style="padding-right:5px;"></i>Home</a>
+              
+              </li>
+              <li style="text-align:center; width:130px;" routerLinkActive="active" [routerLinkActiveOptions]="{exact:true}">
+                <a routerLink="/contact" class="tab-style">Contact Us</a></li>
+          </ul>
+        </div>
+      </nav>
+     </div>
+     <div class="col-xs-6 text-color"> 
+       
+         <i class="fa fa-sign-out fa-md pull-right" style="padding-top:34px;padding-left:30px;"></i>
+       <span class="pull-right" style="padding-top:30px;">Welcome, Raj Shah</span>
+     
+      </div>
+      
+    
+   </div>
+  
+    <div class="row" style="padding:2px;" >
+     
+       <router-outlet></router-outlet>
+     
+      
+
+    </div>
+ </div>
+
+

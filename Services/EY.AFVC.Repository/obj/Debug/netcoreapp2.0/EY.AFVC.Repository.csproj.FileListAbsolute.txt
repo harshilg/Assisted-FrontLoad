@@ -1,0 +1,9 @@
+C:\Projects\AssistedFrontLoad\Services\EY.AFVC.Repository\bin\Debug\netcoreapp2.0\EY.AFVC.Repository.deps.json
+C:\Projects\AssistedFrontLoad\Services\EY.AFVC.Repository\bin\Debug\netcoreapp2.0\EY.AFVC.Repository.dll
+C:\Projects\AssistedFrontLoad\Services\EY.AFVC.Repository\bin\Debug\netcoreapp2.0\EY.AFVC.Repository.pdb
+C:\Projects\AssistedFrontLoad\Services\EY.AFVC.Repository\obj\Debug\netcoreapp2.0\EY.AFVC.Repository.csprojResolveAssemblyReference.cache
+C:\Projects\AssistedFrontLoad\Services\EY.AFVC.Repository\obj\Debug\netcoreapp2.0\EY.AFVC.Repository.csproj.CoreCompileInputs.cache
+C:\Projects\AssistedFrontLoad\Services\EY.AFVC.Repository\obj\Debug\netcoreapp2.0\EY.AFVC.Repository.AssemblyInfoInputs.cache
+C:\Projects\AssistedFrontLoad\Services\EY.AFVC.Repository\obj\Debug\netcoreapp2.0\EY.AFVC.Repository.AssemblyInfo.cs
+C:\Projects\AssistedFrontLoad\Services\EY.AFVC.Repository\obj\Debug\netcoreapp2.0\EY.AFVC.Repository.dll
+C:\Projects\AssistedFrontLoad\Services\EY.AFVC.Repository\obj\Debug\netcoreapp2.0\EY.AFVC.Repository.pdb
